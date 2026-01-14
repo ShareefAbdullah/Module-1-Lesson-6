@@ -20,10 +20,9 @@ h2, h3 {
 	text-align: center;
 }
 .header {
-	background-color: darkcyan;
+	background-color: tan;
 	text-align: center;
 	padding: 10px;
-	color: white;
 }
 .top-nav {
 	padding-left: 40px;
@@ -73,11 +72,10 @@ h2, h3 {
 }
 .quote {
 	padding: 20px;
-	color: darkcyan;
+	color: tan;
 }
 footer {
-	background-color: darkcyan;
+	background-color: tan;
 	text-align: center;
-	color: white;
 	padding: 15px;
 }
